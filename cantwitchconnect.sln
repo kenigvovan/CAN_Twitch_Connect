@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cantwitchconnect", "cantwitchconnect\cantwitchconnect\cantwitchconnect.csproj", "{BDF17F10-5581-4792-BE43-B08F6D7E4DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "cantwitchconnect\ZZCakeBuild\CakeBuild.csproj", "{1D5E7FF6-F19B-430E-91E6-0DFAE8E7BFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF17F10-5581-4792-BE43-B08F6D7E4DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF17F10-5581-4792-BE43-B08F6D7E4DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF17F10-5581-4792-BE43-B08F6D7E4DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF17F10-5581-4792-BE43-B08F6D7E4DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5E7FF6-F19B-430E-91E6-0DFAE8E7BFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5E7FF6-F19B-430E-91E6-0DFAE8E7BFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5E7FF6-F19B-430E-91E6-0DFAE8E7BFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5E7FF6-F19B-430E-91E6-0DFAE8E7BFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA76CA0-A1AC-4032-BF63-3645D31F91F4}
+	EndGlobalSection
+EndGlobal
